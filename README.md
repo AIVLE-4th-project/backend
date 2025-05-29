@@ -17,6 +17,7 @@
 
 ### 🗃️ 데이터베이스
 - H2 (개발용)
+- MySQL
 
 ### 🔗 API
 - RESTful API
@@ -24,10 +25,14 @@
 
 ## 👥 팀원 소개
 
-| 이름   | 역할        |
-|--------|-------------|
-| 김민수 | Backend Developer |
-| 조승빈 | Backend Developer |
+| 이름     | 역할               |
+|----------|--------------------|
+| 박동근   | PM (Project Manager) |
+| 김태현   | Frontend Developer |
+| 김해연   | Frontend Developer |
+| 배소연   | Frontend Developer |
+| 이상엽   | Frontend Developer |
+| 김민수   | Backend Developer  |
+| 조승빈   | Backend Developer  |
 
----
 
